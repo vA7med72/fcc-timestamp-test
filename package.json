@@ -1,0 +1,20 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "timestamp microservice test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^4.12.4"
+  },
+  "keywords": [
+    "test",
+    "fcc",
+    "timestamp",
+    "microservice"
+  ],
+  "author": "Ahmed",
+  "license": "ISC"
+}
